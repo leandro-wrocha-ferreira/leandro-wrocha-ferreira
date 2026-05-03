@@ -41,9 +41,3 @@ I'm a **Fullstack Developer (Backend focused)**, born in 1998, originally from I
 
 **Learning**
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-[![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro-wrocha-ferreira&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
