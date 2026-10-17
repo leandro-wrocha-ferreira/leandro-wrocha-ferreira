@@ -1,43 +1,51 @@
-# Hi there! / Olá! 👋
+# Olá! Sou o Leandro 👋
 
-## 🇧🇷 Sobre Mim (PT-BR)
-Sou um **Desenvolvedor Fullstack com foco em Backend**, nascido em 1998 e natural de Itaquaquecetuba-SP, atualmente residindo em Caruaru-PE. Sou um entusiasta da tecnologia, pai de três e apaixonado pela era clássica dos games.
+Sou desenvolvedor de software com foco em backend, mas minha história com tecnologia começou bem antes de trabalhar na área.
 
-*   💼 Atualmente trabalhando como **Desenvolvedor Backend**.
-*   🚀 Aprofundando conhecimentos em **Kotlin** para o ecossistema mobile.
-*   🎮 Nas horas vagas, nada supera um bom **Pokémon no GameBoy Color**.
-*   👨‍👩‍👦‍👦 Valorizo muito o tempo com minha família (minha esposa e meus três filhos).
+Por volta dos 15 ou 16 anos, já tinha aquela curiosidade sobre o mundo hacker, frequentava fóruns e acompanhava aulas de programação por conta própria. Na época, tentei seguir esse caminho, mas ainda não consegui transformar aquele interesse em uma oportunidade profissional.
+
+Anos depois, após trabalhar como eletricista, decidi voltar a investir nesse objetivo. Surgiu uma oportunidade na área de desenvolvimento e abracei a chance de fazer o que eu já queria havia muito tempo: trabalhar com programação.
+
+Hoje trabalho principalmente com PHP, desenvolvendo e mantendo sistemas web, integrações com serviços externos e funcionalidades para plataformas de educação digital. Também desenvolvo o [io.edu](https://io-edu.com.br), meu projeto independente de uma plataforma educacional white-label, onde coloco em prática ideias e conhecimentos que quero aprofundar.
+
+### 🚀 Próximo passo: Java Backend
+
+Estou começando uma nova etapa de estudos com foco em desenvolvimento backend utilizando Java. Para organizar esse aprendizado, pretendo acompanhar o [roadmap](https://ganeko-roadmap.vercel.app), que conheci recentemente e que está disponível gratuitamente. A ideia é construir uma base sólida e avançar de forma estruturada, sem deixar de lado minha experiência profissional atual.
+
+### 🛠️ Tecnologias
+
+- **Backend:** PHP, CodeIgniter, Laravel, Node.js
+- **Frontend:** JavaScript, React, Next.js
+- **Banco de dados:** PostgreSQL, MySQL
+- **Ferramentas:** Docker, Git, AWS
+
+### 👨‍👧 Fora do código
+
+Boa parte do meu tempo livre é dedicada ao io.edu e aos estudos, porque quero continuar evoluindo profissionalmente e construir novas possibilidades para mim e para minha família. Mas também faço questão de reservar tempo para brincar com minha pequena.
+
+E, quando consigo um tempo para revisitar algo por puro gosto pessoal, Pokémon está entre minhas escolhas favoritas. Tenho um carinho especial por Pokémon Crystal, do Game Boy Color, e gosto de acompanhar esse universo também pelos jogos de cartas.
 
 ---
 
-## 🇺🇸 About Me (EN)
-I'm a **Fullstack Developer (Backend focused)**, born in 1998, originally from Itaquaquecetuba-SP and currently living in Caruaru-PE, Brazil. I am a tech enthusiast, a father of three, and a lover of the classic gaming era.
+### 🇺🇸 About me
 
-*   💼 Currently working as a **Backend Developer**.
-*   🚀 Learning **Kotlin** to expand into mobile development.
-*   🎮 In my free time, you'll find me playing **Pokémon on the GameBoy Color**.
-*   👨‍👩‍👦‍👦 Family-oriented: proud husband and father of three sons.
+I'm a software developer focused on backend development, but my interest in technology started long before I began working in the field.
 
----
+At around 15 or 16, I was already curious about hacking, browsing forums, and following programming lessons on my own. Years later, after working as an electrician, I decided to pursue that goal again. When an opportunity in software development came along, I took it and began building the career I had wanted for a long time.
 
-## 🗣️ Languages / Idiomas
+Today, I work mainly with PHP, developing and maintaining web applications, external integrations, and features for digital education platforms. I also work on [io.edu](https://io-edu.com.br), my independent white-label learning platform project.
 
-*   **Portuguese:** Native / Nativo 🇧🇷
-*   **English:** Currently improving my **Speaking** and **Listening** skills. (Learning) 🇺🇸
-    *   *Melhorando ativamente minha conversação e compreensão auditiva.*
+### 🚀 Next Level: Java Backend
 
----
+I'm now beginning to study Java with a focus on backend development, using [roadmap](https://ganeko-roadmap.vercel.app) as a learning reference.
 
-## 🛠 Tech Stack
+### 🛠️ Technologies
 
-**Backend & Database**
-![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- **Backend:** PHP, CodeIgniter, Laravel, Node.js
+- **Frontend:** JavaScript, React, Next.js
+- **Databases:** PostgreSQL, MySQL
+- **Tools & Infrastructure:** Docker, Git, AWS
 
-**Frontend**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+### 👨‍👧 Outside of work
 
-**Learning**
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+I dedicate time to my project, my studies, and my daughter. I also enjoy revisiting the Pokémon universe, especially Pokémon Crystal on the Game Boy Color, and following the Pokémon Trading Card Game.
